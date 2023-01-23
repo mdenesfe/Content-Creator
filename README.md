@@ -1,2 +1,32 @@
-# Instagram_Auto_Post_Story_Creator
-It allows you to automatically create your Instagram Posts and Stories.
+# Content Creator
+
+This code snippet reads the texts from 'text.txt' file and creates an image for each text. Images are saved in 'images' folder and each image is named 'x_new_post.jpg' (x is a number according to the order of the images).
+
+## Getting Started
+
+1. First, 'text.txt' file is read and texts are read.
+2. An image is created for each text.
+3. Images are saved in 'images' folder.
+4. Each image is named 'x_new_post.jpg' (x is a number according to the order of the images).
+
+## Requirements
+
+This code snippet requires the 'text.txt' file and 'images' folder to be present. It uses python 3.x and PIL (Python Imaging Library) library.
+
+'''bash
+pip install pillow
+'''
+'''bash
+pip install PIL
+'''
+
+## Running
+
+To run this code snippet, you only need to run `python main.py` command in your console or terminal.
+
+## Notes
+
+- This code snippet is only written to read texts from 'text.txt' file and create images.
+- Images are saved in 'images' folder and each image is named 'x_new_post.jpg' (x is a number according to the order of the images).
+- The size, font, text color of the images can be changed.
+- This code snippet uses PIL (Python Imaging Library). If this library is not installed, you need to install it first.
