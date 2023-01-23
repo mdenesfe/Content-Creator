@@ -24,6 +24,9 @@ This code snippet requires the 'text.txt' file and 'images' folder to be present
 
 To run this code snippet, you only need to run `python main.py` command in your console or terminal.
 
+## Contributors
+- [mdenesfe](https://github.com/mdenesfe)
+
 ## Notes
 
 - This code snippet is only written to read texts from 'text.txt' file and create images.
