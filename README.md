@@ -13,12 +13,12 @@ This code snippet reads the texts from 'text.txt' file and creates an image for 
 
 This code snippet requires the 'text.txt' file and 'images' folder to be present. It uses python 3.x and PIL (Python Imaging Library) library.
 
-'''bash
-pip install pillow
-'''
-'''bash
-pip install PIL
-'''
+```bash
+  pip install pillow
+```
+```bash
+  pip install PIL
+```
 
 ## Running
 
