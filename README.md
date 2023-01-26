@@ -1,5 +1,7 @@
 # Content Creator
 
+My post about [ft_printf](https://medium.com/@mdenesfe/creating-images-from-text-with-python-and-pil-6a8ae432059d)
+
 This code snippet reads the texts from 'text.txt' file and creates an image for each text. Images are saved in 'images' folder and each image is named 'x_new_post.jpg' (x is a number according to the order of the images).
 
 ## Getting Started
